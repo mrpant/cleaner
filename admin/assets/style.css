@@ -1,0 +1,44 @@
+.skin-blue .main-header .navbar{
+	    background-color: #222d32!important;
+}
+
+.skin-blue .main-header .logo{
+	 background-color: #222d32!important;
+}
+
+
+.navbar-nav>.user-menu>.dropdown-menu{
+	width: 167px!important;
+}
+
+.skin-blue .main-header li.user-header{
+	background-color: #222d32!important;
+}
+
+.main-sidebar, .left-side{
+	min-height: 0!important;
+}
+
+table.table-bordered tfoot th, table.table-bordered tfoot td{
+font-weight: 900;
+}
+
+.heading{
+	       color: #fff;
+    font-size: 17px;
+    position: absolute;
+    top: 16px;
+    left: 27%;
+}
+
+.custom_table{
+	display: block;
+    overflow: scroll;
+}
+
+.table-bordered{
+	    border: 1px solid #151515!important;
+}
+.table-bordered>thead>tr>th, .table-bordered>tbody>tr>th, .table-bordered>tfoot>tr>th, .table-bordered>thead>tr>td, .table-bordered>tbody>tr>td, .table-bordered>tfoot>tr>td{
+	border: 1px solid #0d0d0d!important;
+}
